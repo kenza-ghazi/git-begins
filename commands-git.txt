@@ -1,0 +1,4 @@
+git clone (url repo github)
+git add (filename)
+git commit -m "commmentaire"
+git push
